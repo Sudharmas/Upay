@@ -1,0 +1,32 @@
+2025-09-23 19:13:51 | INFO | upay.agent | Offline label: Mediate
+2025-09-23 19:13:51 | INFO | upay.agent | Online label: None
+2025-09-23 19:13:51 | INFO | upay.agent | Final label: Mediate (origin=default, after_hours=False)
+2025-09-23 19:14:03 | INFO | upay.agent | Offline label: Mediate
+2025-09-23 19:14:03 | INFO | upay.agent | Online label: None
+2025-09-23 19:14:03 | INFO | upay.agent | Final label: Mediate (origin=default, after_hours=False)
+2025-09-23 19:14:10 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-23 19:14:10 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-23 19:14:23 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-23 19:14:23 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-23 19:14:32 | INFO | upay.agent | Offline label: Mediate
+2025-09-23 19:14:32 | INFO | upay.agent | Online label: None
+2025-09-23 19:14:32 | INFO | upay.agent | Final label: Mediate (origin=default, after_hours=False)
+2025-09-23 19:41:50 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-23 19:41:50 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-23 19:42:00 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-23 19:42:00 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-23 19:42:10 | INFO | upay.agent | Offline label: Mediate
+2025-09-23 19:42:10 | INFO | upay.agent | Online label: None
+2025-09-23 19:42:10 | INFO | upay.agent | Final label: Mediate (origin=default, after_hours=False)
+2025-09-23 19:43:05 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-23 19:43:05 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-24 02:41:00 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-24 02:41:00 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-24 03:06:30 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-24 03:06:30 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-24 03:20:56 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-24 03:20:56 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-24 03:27:29 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-24 03:27:29 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)
+2025-09-24 03:38:44 | INFO | upay.agent | Offline label: Not Fraud
+2025-09-24 03:38:44 | INFO | upay.agent | Final label: Not Fraud (origin=offline, after_hours=False)

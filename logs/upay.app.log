@@ -1,0 +1,31 @@
+2025-09-23 17:29:23 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-23 18:35:37 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-23 18:51:34 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-23 19:13:27 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-23 19:13:51 | INFO | upay.app | Sending to website: {'id': '68d2a417385b3131c6cd57e8', 'source': 'website', 'message': 'good news, submit the OTP to win 50,000 cash price', 'result': 'Mediate', 'after_hours': False, 'meta': {'origin': 'default', 'after_hours': False, 'offline_label': 'Mediate', 'online_label': None}}
+2025-09-23 19:14:03 | INFO | upay.app | Sending to website: {'id': '68d2a423385b3131c6cd57e9', 'source': 'website', 'message': 'submit the OTP to win 50,000 cash price', 'result': 'Mediate', 'after_hours': False, 'meta': {'origin': 'default', 'after_hours': False, 'offline_label': 'Mediate', 'online_label': None}}
+2025-09-23 19:14:10 | INFO | upay.app | Sending to website: {'id': '68d2a42a385b3131c6cd57ea', 'source': 'website', 'message': 'win 50,000 cash price', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-23 19:14:23 | INFO | upay.app | Sending to website: {'id': '68d2a437385b3131c6cd57eb', 'source': 'website', 'message': 'scam', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-23 19:14:32 | INFO | upay.app | Sending to website: {'id': '68d2a440385b3131c6cd57ec', 'source': 'website', 'message': 'OTP 5463', 'result': 'Mediate', 'after_hours': False, 'meta': {'origin': 'default', 'after_hours': False, 'offline_label': 'Mediate', 'online_label': None}}
+2025-09-23 19:41:35 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-23 19:41:50 | INFO | upay.app | Sending to website: {'id': '68d2aaa642e3d18117613d24', 'source': 'website', 'message': '50000 credited to the account', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-23 19:42:00 | INFO | upay.app | Sending to website: {'id': '68d2aab042e3d18117613d25', 'source': 'website', 'message': '50000 price money \ncredited to the account', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-23 19:42:10 | INFO | upay.app | Sending to website: {'id': '68d2aaba42e3d18117613d26', 'source': 'website', 'message': 'OTP', 'result': 'Mediate', 'after_hours': False, 'meta': {'origin': 'default', 'after_hours': False, 'offline_label': 'Mediate', 'online_label': None}}
+2025-09-23 19:43:05 | INFO | upay.app | Sending to website: {'id': '68d2aaf142e3d18117613d27', 'source': 'website', 'message': 'spam', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-24 02:40:35 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 02:41:00 | INFO | upay.app | Sending to website: {'id': None, 'source': 'website', 'message': 'hii hello welcome', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-24 02:43:09 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 02:44:45 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 02:50:13 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 02:51:34 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 02:53:05 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 02:58:19 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 03:04:32 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 03:06:14 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 03:06:30 | INFO | upay.app | Sending to website: {'id': '68d312de89d3308f97e53854', 'source': 'website', 'message': 'hiiiii', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-24 03:20:46 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 03:20:56 | INFO | upay.app | Sending to website: {'id': '68d316401be19dc6d18e1d7b', 'source': 'website', 'message': 'hello', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-24 03:27:18 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 03:27:29 | INFO | upay.app | Sending to website: {'id': '68d317c9f0c733ac33831641', 'source': 'website', 'message': 'hyyy', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}
+2025-09-24 03:38:29 | INFO | upay.app | DB Poller started (interval=60s)
+2025-09-24 03:38:45 | INFO | upay.app | Sending to website: {'id': '68d31a6c42f18ad1899b3072', 'source': 'website', 'message': 'jytserfvgredv', 'result': 'Not Fraud', 'after_hours': False, 'meta': {'origin': 'offline', 'after_hours': False, 'offline_label': 'Not Fraud', 'online_label': None}}

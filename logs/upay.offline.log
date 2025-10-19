@@ -1,0 +1,12 @@
+2025-09-23 19:41:35 | ERROR | upay.offline | Failed to load local model.pkl: No module named 'sklearn'. Using heuristic fallback.
+2025-09-24 02:39:43 | ERROR | upay.offline | Failed to load local model.pkl: No module named 'sklearn'. Using heuristic fallback.
+2025-09-24 02:40:09 | ERROR | upay.offline | Failed to load local model.pkl: No module named 'sklearn'. Using heuristic fallback.
+2025-09-24 02:40:35 | ERROR | upay.offline | Failed to load local model.pkl: No module named 'sklearn'. Using heuristic fallback.
+2025-09-24 02:43:09 | ERROR | upay.offline | Failed to load local model.pkl: No module named 'sklearn'. Using heuristic fallback.
+2025-09-24 02:57:12 | ERROR | upay.offline | Failed to load local model: No module named 'sklearn'; falling back to heuristics
+2025-09-24 02:58:19 | ERROR | upay.offline | Failed to load local model: No module named 'sklearn'; falling back to heuristics
+2025-09-24 03:04:32 | ERROR | upay.offline | Failed to load local model: No module named 'sklearn'; falling back to heuristics
+2025-09-24 03:06:14 | ERROR | upay.offline | Failed to load local model: No module named 'sklearn'; falling back to heuristics
+2025-09-24 03:20:46 | ERROR | upay.offline | Failed to load local model: No module named 'sklearn'; falling back to heuristics
+2025-09-24 03:27:18 | ERROR | upay.offline | Failed to load local model: No module named 'sklearn'; falling back to heuristics
+2025-09-24 03:38:29 | ERROR | upay.offline | Failed to load local model: No module named 'sklearn'; falling back to heuristics

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UPay Fraud Detector</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header>
+    <h1>UPay Fraud & Scam Message Detector</h1>
+    <div id="health" class="health">Checking backend…</div>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Test a Message</h2>
+      <form id="msgForm">
+        <label for="message">Paste the message text</label>
+        <textarea id="message" name="message" rows="6" placeholder="Enter SMS / chat text to analyze…" required></textarea>
+
+        <div class="actions">
+          <button type="submit">Analyze</button>
+          <span id="loading" class="loading hidden">Processing…</span>
+        </div>
+      </form>
+    </section>
+
+    <section id="resultSection" class="card hidden">
+      <h2>Result</h2>
+      <div id="resultBadge" class="badge">—</div>
+      <div class="kv">
+        <div><span class="k">Decision:</span> <span id="decision">—</span></div>
+        <div><span class="k">Message ID:</span> <span id="docId">—</span></div>
+        <div><span class="k">After Hours:</span> <span id="afterHours">—</span></div>
+        <div><span class="k">Origin:</span> <span id="origin">—</span></div>
+      </div>
+      <details>
+        <summary>Details</summary>
+        <pre id="raw"></pre>
+      </details>
+    </section>
+
+    <section id="errorSection" class="card error hidden">
+      <h2>Error</h2>
+      <div id="errorMsg">—</div>
+    </section>
+  </main>
+
+  <footer>
+    <small>Backend endpoints used: POST /api/message, GET /health</small>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

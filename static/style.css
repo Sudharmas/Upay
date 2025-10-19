@@ -1,0 +1,26 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0; background: #f6f7fb; color: #1a1a1a; }
+header { background: #0d47a1; color: white; padding: 16px 20px; }
+header h1 { margin: 0 0 6px; font-size: 20px; }
+.health { font-size: 12px; opacity: 0.9; }
+.health.good { color: #c8e6c9; }
+.health.bad { color: #ffccbc; }
+main { max-width: 800px; margin: 24px auto; padding: 0 16px; }
+.card { background: white; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.06); padding: 16px; margin-bottom: 16px; }
+.card h2 { margin-top: 0; font-size: 18px; }
+label { display: block; font-weight: 600; margin-bottom: 8px; }
+textarea { width: 100%; padding: 10px; border: 1px solid #e0e0e0; border-radius: 8px; font-size: 14px; resize: vertical; }
+.actions { margin-top: 12px; display: flex; align-items: center; gap: 12px; }
+button { background: #1565c0; color: white; border: none; border-radius: 8px; padding: 10px 16px; cursor: pointer; font-weight: 600; }
+button:hover { background: #0d47a1; }
+.loading { font-size: 13px; color: #666; }
+.hidden { display: none; }
+.error { border-left: 4px solid #d32f2f; }
+#errorMsg { color: #b71c1c; }
+.badge { display: inline-block; padding: 8px 12px; border-radius: 999px; font-weight: 700; margin-bottom: 8px; }
+.badge.fraud { background: #ffebee; color: #c62828; border: 1px solid #ffcdd2; }
+.badge.notfraud { background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; }
+.badge.mediate { background: #fffde7; color: #f57f17; border: 1px solid #fff59d; }
+.kv { font-size: 14px; color: #333; }
+.kv .k { display: inline-block; width: 110px; color: #666; }
+footer { text-align: center; font-size: 12px; color: #666; padding: 16px; }
